@@ -25,10 +25,11 @@ In mathematics, a **manifold** is a topological space that locally resembles Euc
   1. [Manifolds: A Gentle Introduction](http://bjlkeng.github.io/posts/manifolds/)
   1. [Differentiable manifolds and smooth maps, Theodore Voronov.](http://www.maths.manchester.ac.uk/~tv/Teaching/Differentiable%20Manifolds/2010-2011/1-manifolds.pdf)
 ## Videos
-  1. ["Manifolds (playlist)", Robert Davie (YouTube)](https://www.youtube.com/playlist?list=PLeFwDGOexoe8cjplxwQFMvGLSxbOTUyLv)
-  1. ["What is a Manifold?", XylyXylyX (YouTube)](https://www.youtube.com/playlist?list=PLRlVmXqzHjUQHEx63ZFxV-0Ortgf-rpJo)
+  1. [Manifolds (playlist), Robert Davie (YouTube)](https://www.youtube.com/playlist?list=PLeFwDGOexoe8cjplxwQFMvGLSxbOTUyLv)
+  1. [What is a Manifold?, XylyXylyX (YouTube)](https://www.youtube.com/playlist?list=PLRlVmXqzHjUQHEx63ZFxV-0Ortgf-rpJo)
 ## Books
-  1. Coming soon :penguin:
+  1. [Manifold Learning Theory and Applications](https://www.amazon.com/Manifold-Learning-Theory-Applications-Yunqian/dp/1439871094/ref=asc_df_1439871094/?tag=hyprod-20&linkCode=df0&hvadid=312168166316&hvpos=1o2&hvnetw=g&hvrand=549264045505275346&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=2840&hvtargid=pla-415427778627&psc=1)
+  1. [Differential Manifold: A Mathematical Approach for Experimental Physicists](https://www.amazon.com/Differential-Manifold-Mathematical-Experimental-Physicists/dp/9814449563/ref=asc_df_9814449563/?tag=hyprod-20&linkCode=df0&hvadid=343206877892&hvpos=2o5&hvnetw=g&hvrand=8253344947318443966&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=2840&hvtargid=pla-524460034771&psc=1&tag=&ref=&adgrpid=66484627102&hvpone=&hvptwo=&hvadid=343206877892&hvpos=2o5&hvnetw=g&hvrand=8253344947318443966&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=2840&hvtargid=pla-524460034771)
 ## Job boards
   1. Coming soon :dog:
 ## Interviewing
